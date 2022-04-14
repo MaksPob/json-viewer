@@ -1,0 +1,18 @@
+.layoutRow {
+    display: flex;
+    width: 100%;
+}
+
+.flex30 {
+    flex: 0 0 30%;
+    max-width: 30%;
+}
+
+.flex70 {
+    flex: 0 0 70%;
+    max-width: 70%;
+}
+
+.layoutLeftPadding8 {
+    margin-left: 8px;
+}

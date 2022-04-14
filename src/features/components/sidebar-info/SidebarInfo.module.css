@@ -1,0 +1,19 @@
+.header {
+    height: 50px;
+    text-align: center;
+    font-weight: bold;
+    line-height: 50px;
+    border-bottom: 1px solid black;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.item {
+    list-style-type: none; 
+}
+
+.item:hover {
+    background-color: #c9f4ff;
+}

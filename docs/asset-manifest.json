@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/json-viewer/static/css/main.28680095.css",
+    "main.js": "/json-viewer/static/js/main.d5782bd4.js",
+    "index.html": "/json-viewer/index.html",
+    "main.28680095.css.map": "/json-viewer/static/css/main.28680095.css.map",
+    "main.d5782bd4.js.map": "/json-viewer/static/js/main.d5782bd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28680095.css",
+    "static/js/main.d5782bd4.js"
+  ]
+}
