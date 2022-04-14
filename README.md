@@ -11,8 +11,11 @@ Also possible to edit data from grid.
 #### `npm run start`
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+## Or view
+https://makspob.github.io/json-viewer/
+
 #### App based on clean architecture and has four layers, where each bottom layer has no access to the top one:
-`-core`
-`-data-access`
-`-store`
-`-feature(view)`
+`-core`  
+`-data-access`  
+`-store`  
+`-feature(view)`  
